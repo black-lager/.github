@@ -18,5 +18,6 @@ Each set of two Curve25519 users has a 32-byte shared secret used to authenticat
 
 
 ## Open source contribution
-Generated Persona Protobuf definition to build a foundation to implement future phases of security improvement. [Link to PR](https://github.com/meshtastic/protobufs/pull/251). 
+Generated Persona Protobuf definition to build a foundation to support strong device and client identity core value. More encryption information can be found [here](https://meshtastic.org/docs/overview/encryption). Protobuf is also currently being merged into Meshtastic Open Source repository. [Link to PR](https://github.com/meshtastic/protobufs/pull/251). 
+
 
