@@ -1,4 +1,5 @@
 # Black-Lager
+![alt text](https://www.datocms-assets.com/75079/1656636514-dark-lagers-18-12-03_cbb_issue31-167_final.jpg?w=1600&fm=jpg)
 Black-Lager is a messaging application that doesn't rely on cell service or internet. Data is sent over a mesh network of small, but power-efficient and long-range radio devices. Black-Lager offers additional security features such as digital signature to ensure mutual authentication. 
 ## Website
 We also have a website! Come check [it](https://black-lager.github.io/) out. 
