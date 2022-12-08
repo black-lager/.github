@@ -1,7 +1,7 @@
 # Black-Lager
 Black-Lager is a messaging application that doesn't rely on cell service or internet. Data is sent over a mesh network of small, but power-efficient and long-range radio devices. Black-Lager offers additional security features such as digital signature to ensure mutual authentication. 
 ## Website
-We also have a website! Come check [it](https://black-lager.github.io/) out. 
+We also have a website! Come check [it out](https://black-lager.github.io/). 
 
 
 ## Encryption
